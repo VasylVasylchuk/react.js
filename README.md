@@ -9,13 +9,6 @@ Getting Started
 5. Open `http://localhost:3000` in your browser
 
 
-Assignment 1: CSS and React
+Design
 ------------
-1. Create a responsive page that looks like the following [figma](https://www.figma.com/file/54BcAbkb51xBzAOk6dF6Fn/Frontend-test)
-2. There is only one breakpoint at 600px
-3. The page should be implemented using React
-4. The page should be implemented using CSS modules
-5. The page should be implemented using functional components
-6. You will be evaluated on the quality of your code, the quality of your design and the quality of your implementation
-7. Adding tests is a plus
-8. Considering edge cases is a plus (long texts in the title, long texts in the description, loading state, etc)
+[figma](https://www.figma.com/file/54BcAbkb51xBzAOk6dF6Fn/Frontend-test)

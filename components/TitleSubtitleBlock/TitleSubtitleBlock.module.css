@@ -1,0 +1,17 @@
+.container p {
+  font-family: Arial;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0px;
+  margin: 0 0 5px 0;
+}
+
+.title {
+  font-weight: 700;
+  color: #313A4E;
+}
+
+.subtitle {
+  font-weight: 400;
+  color: #6b6f7b;
+}

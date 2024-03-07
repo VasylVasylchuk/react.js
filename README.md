@@ -1,0 +1,21 @@
+This is a bootstrap project for testing FE developers on CSS and React. 
+
+Getting Started
+---------------
+1. Clone this repo
+2. Use Node 16.19.*  (npm 8.8). If you have nvm installed, run `nvm use` to set the correct version.
+3. Run `npm install`
+4. Run `npm run dev`
+5. Open `http://localhost:3000` in your browser
+
+
+Assignment 1: CSS and React
+------------
+1. Create a responsive page that looks like the following [figma](https://www.figma.com/file/54BcAbkb51xBzAOk6dF6Fn/Frontend-test)
+2. There is only one breakpoint at 600px
+3. The page should be implemented using React
+4. The page should be implemented using CSS modules
+5. The page should be implemented using functional components
+6. You will be evaluated on the quality of your code, the quality of your design and the quality of your implementation
+7. Adding tests is a plus
+8. Considering edge cases is a plus (long texts in the title, long texts in the description, loading state, etc)
